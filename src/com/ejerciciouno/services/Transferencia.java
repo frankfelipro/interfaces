@@ -1,6 +1,6 @@
-package com.services;
+package com.ejerciciouno.services;
 
-import com.interfaces.ITransferencia;
+import com.ejerciciouno.interfaces.ITransferencia;
 
 public class Transferencia implements ITransferencia {
     @Override

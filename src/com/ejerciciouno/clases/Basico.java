@@ -1,8 +1,8 @@
-package com.clases;
+package com.ejerciciouno.clases;
 
-import com.interfaces.IConsultaSaldo;
-import com.interfaces.IPagoServicios;
-import com.interfaces.IRetiroEfectivo;
+import com.ejerciciouno.interfaces.IConsultaSaldo;
+import com.ejerciciouno.interfaces.IPagoServicios;
+import com.ejerciciouno.interfaces.IRetiroEfectivo;
 
 public class Basico {
    private final IConsultaSaldo consultaSaldo;

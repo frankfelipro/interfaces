@@ -1,6 +1,6 @@
-package com.services;
+package com.ejerciciouno.services;
 
-import com.interfaces.IPagoServicios;
+import com.ejerciciouno.interfaces.IPagoServicios;
 
 public class PagoServicios implements IPagoServicios {
     @Override

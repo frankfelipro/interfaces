@@ -1,4 +1,4 @@
-package com.interfaces;
+package com.ejerciciouno.interfaces;
 
 public interface ITransaccion {
     public void transaccionOk();

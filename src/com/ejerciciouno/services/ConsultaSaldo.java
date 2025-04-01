@@ -1,7 +1,7 @@
-package com.services;
+package com.ejerciciouno.services;
 
 
-import com.interfaces.IConsultaSaldo;
+import com.ejerciciouno.interfaces.IConsultaSaldo;
 
 public class ConsultaSaldo implements IConsultaSaldo {
     @Override

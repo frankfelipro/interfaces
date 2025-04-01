@@ -1,8 +1,8 @@
-package com.clases;
+package com.ejerciciouno.clases;
 
 
-import com.interfaces.IConsultaSaldo;
-import com.interfaces.IRetiroEfectivo;
+import com.ejerciciouno.interfaces.IConsultaSaldo;
+import com.ejerciciouno.interfaces.IRetiroEfectivo;
 
 public class Cobrador{
     private final IRetiroEfectivo retiroEfectivo;

@@ -1,6 +1,6 @@
-package com.services;
+package com.ejerciciouno.services;
 
-import com.interfaces.IRetiroEfectivo;
+import com.ejerciciouno.interfaces.IRetiroEfectivo;
 
 public class RetiroEfectivo implements IRetiroEfectivo {
     @Override

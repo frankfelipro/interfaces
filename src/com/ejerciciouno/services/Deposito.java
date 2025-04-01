@@ -1,6 +1,6 @@
-package com.services;
+package com.ejerciciouno.services;
 
-import com.interfaces.IDeposito;
+import com.ejerciciouno.interfaces.IDeposito;
 
 public class Deposito implements IDeposito {
     @Override

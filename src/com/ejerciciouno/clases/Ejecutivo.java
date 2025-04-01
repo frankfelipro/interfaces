@@ -1,7 +1,7 @@
-package com.clases;
+package com.ejerciciouno.clases;
 
-import com.interfaces.IDeposito;
-import com.interfaces.ITransferencia;
+import com.ejerciciouno.interfaces.IDeposito;
+import com.ejerciciouno.interfaces.ITransferencia;
 
 public class Ejecutivo {
     private final IDeposito deposito;

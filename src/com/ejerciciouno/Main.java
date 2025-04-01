@@ -1,8 +1,10 @@
-import com.clases.Basico;
-import com.clases.Cobrador;
-import com.clases.Ejecutivo;
-import com.interfaces.*;
-import com.services.*;
+package com.ejerciciouno;
+
+import com.ejerciciouno.clases.Basico;
+import com.ejerciciouno.clases.Cobrador;
+import com.ejerciciouno.clases.Ejecutivo;
+import com.ejerciciouno.interfaces.*;
+import com.ejerciciouno.services.*;
 
 public class Main {
     public static void main(String[] args) {
